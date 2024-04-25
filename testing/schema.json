@@ -1,0 +1,80 @@
+{
+    "username": "braxtonkjohnson",
+    "password": "password",
+    "salt": "salt",
+    "first_name": "Braxton",
+    "last_name": "Johnson",
+    "email":"braxtonkylejohnson@gmail.com",
+    "phone": "9124630833",
+    "access_token": "access token",
+    "assets": {
+        "Bank Accounts": {
+
+            "0": {
+
+                "Bank Name": "Navy Federal Credit Union",
+                "Current Balance": 100000,
+                "Metadata": {
+
+                },
+
+                "Transactions": {
+
+                    "0": {
+
+                    },
+
+                    "1": {
+                        
+                    },
+
+                    "2": {
+                        
+                    },
+
+                    "3": {
+                        
+                    }
+                }
+
+            },
+
+            "1": {
+
+                "Bank Name": "Chase Bank",
+                "Current Balance": 50000,
+                "Metadata": {
+
+                },
+                
+                "Transactions": {
+
+                    "0": {
+
+                    },
+
+                    "1": {
+                        
+                    },
+
+                    "2": {
+                        
+                    },
+
+                    "3": {
+                        
+                    }
+                }
+                
+            }
+        }, 
+
+        "Real Estate": {
+
+        }
+}
+
+
+
+
+}
